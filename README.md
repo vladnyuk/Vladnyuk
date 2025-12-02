@@ -7,9 +7,9 @@
 </p>
 <br><br>
 <p align="center">
-   $$\color{#8B0000 }{\mathscr{⌖}}$$
+   $$\color{#8B0000 }{\mathscr{𖦏}}$$
 
   <br><br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63fd0140-5f26-48b1-8ba3-6ef92a6f194b" width="400" />
+  <img src="" width="400" />
 </p>
