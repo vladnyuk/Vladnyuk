@@ -1,5 +1,5 @@
 <p align="center">
-  $$\color{#8B0000 }{\mathscr{let's\jump\off\together.}}$$
+  $$\color{#8B0000 }{\mathscr{let's\ jump \ off \ together.}}$$
 </p>
 
 <p align="center">
