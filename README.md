@@ -11,5 +11,5 @@
 
   <br><br>
 <p align="center">
-  $$\color{#8B0000 }{\mathscr{https://vladnyuk.atabook.org/}}$$
+  {https://vladnyuk.atabook.org/}
 </p>
