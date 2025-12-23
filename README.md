@@ -1,5 +1,5 @@
 <p align="center">
-  $$\color{#8B0000 }{\mathscr{let's\ die \ together.}}$$
+  $$\color{#8B0000 }{\mathscr{ hold \ me \ tight.}}$$
 </p>
 <br><br>
 <p align="center">
