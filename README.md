@@ -7,9 +7,9 @@
 </p>
 <br><br>
 <p align="center">
-   $$\color{#8B0000 }{\mathscr{I \ have \ an \ interest \ in \ Jimmy \ from \ the \ game \ mouthwashing.}}$$
+   $$\color{#8B0000 }{\mathscr{Random \ teenage \ boy.}}$$
   <p align="center">
-  $$\color{#8B0000 }{\mathscr{If \ that \ disturbs \ you,\ please\ either\ block \ or \ generally \ don't \ int. \ I'm \ very \ friendly, \ treat \ me \ anyway, \ idm.}}$$
+  $$\color{#8B0000 }{\mathscr{I'm \ very \ friendly, \ treat \ me \ however \ you \ want, \ idm.}}$$
 
   <br><br>
 <p align="center">
